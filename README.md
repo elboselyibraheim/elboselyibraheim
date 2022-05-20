@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1> I'm Ibrahim Mahmoud</h1>
+<h1 textaligen='center' > I'm Ibrahim Mahmoud</h1>
 <!--
 **elboselyibraheim/elboselyibraheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
